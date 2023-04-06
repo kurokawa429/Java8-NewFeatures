@@ -7,11 +7,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Optional" />
         <module name="StreamAPI" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="StreamAPI" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>

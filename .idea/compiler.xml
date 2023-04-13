@@ -7,8 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Optional" />
+        <module name="TimeAPI" />
         <module name="StreamAPI" />
+        <module name="Optional" />
+        <module name="Lambda" />
       </profile>
     </annotationProcessing>
   </component>
